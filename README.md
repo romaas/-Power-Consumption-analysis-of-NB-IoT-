@@ -1,2 +1,3 @@
-# -Power-Consumption-analysis-of-NB-IoT-
- Power Consumption Analysis of NB-IoT for uplink data transmission using FiPy
+# Power-Consumption-analysis-of-NB-IoT
+
+This project was done to investigate the energy consumed during the uplink transmission of data packets of different sizes using LTE Narrowband Internet-of-Things (NB-IoT) cellular technology. In this work, the power consumption measurements were recorded and analyzed. The analysis of the measurements led us to formulate a hypothesis where we assumed the ﬁrst peak in the measurements while transmitting packets to be the radio connection to the base station and some consecutive peaks to be the actual data transmission and the last peak to be the acknowledgment for the packet. The results of the experiment did support our hypothesis to some extend but as a future work with better experimental setup would helps us prove our hypothesis to be 100 percent true. The results shows that the energy consumption as well as the time required for sending data increases with increase in packet size
